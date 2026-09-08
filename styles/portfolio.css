@@ -30,8 +30,10 @@ header{
     background-color: #FFF8F3;
     margin-top: 51px;
     background: url("../images/developer.png"),url(../images/header_bg.png),#FFF8F3;
-    background-position: top left,bottom right;
+    background-position: 38px 25px,bottom right;
     background-repeat: no-repeat;
+    margin: 0px;
+    padding: 2px;
 }
 nav{
     width: 71%;
@@ -84,6 +86,8 @@ nav .menu a{
 }
 #banner .banner-img{ max-width: 585px;
 vertical-align: middle;
+padding: 0px;
+margin-bottom: 0px;
 }
 #about{
     padding-top: 130px;
